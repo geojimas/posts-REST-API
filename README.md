@@ -2,7 +2,7 @@
 
 ## Setup Locally (Windows)
 
-### 1) Install Python >= 3.6 version
+### 1) Install Python >= 3.8 version
 
 ### 2) Create virtual Environment
 ```shell
